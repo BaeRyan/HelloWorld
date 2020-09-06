@@ -1,5 +1,5 @@
 **Name**: Ryan Bae
 
-**Assignment Name**: Assignment 1A: Create a Glitch Account And Page
+**Assignment Name**: Assignment 2A: Create a Glitch Account And PageGitHub
 
-**Data**: August 25, 2020
+**Data**: September 6, 2020
